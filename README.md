@@ -3,7 +3,7 @@
 
 # 27410 - Group assignment - Group 17 - Production of p-coumaric acid using Synechocystis sp. PCC 6803
 
-## Project summary (<300 words)
+## Project summary
 The secondary metabolite p-coumaric acid originates from the shikimate pathway from either phenylalanine or tyrosine precursors. It is an important intermediate in the biosynthesis of phenolic acids, flavonoids, and lignin. Also known for its antioxidant, anti-inflammatory, and antimicrobial biological properties, it is a common precursor in the synthesis of flavors and fragrences. Due to these commercial applications, new biological production methods are needed to ensure its sustainable production. This project implements the heterologous phenylalanine pathway for p-coumaric acid in Synechocystis sp. PCC 6803, a mixotrophic cyanobacteria capable of carbon dioxide fixation and fast growth. A product rate of 4.18e-4 mmol/gDW/h was computed. Growth was optimized on a minimal medium and up-regulation target were computationally identified, leading to an X% productivity improvement. Other computer-aided methods for alternative pathway predictions and gene knock-outs failed to yield fruitful improvements. Lastly rational genetic engineering strategies were manually implemented but failed to lead to improvements. Pitfalls of these methods and potential alternatives are discussed.
 
 ## Project overview
